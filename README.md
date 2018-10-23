@@ -10,4 +10,5 @@
 - 수익에 대해서 각자 나누어 가진다.
 
 ## 그림
-![default](https://user-images.githubusercontent.com/44366051/47356562-6ab43680-d6ff-11e8-9f88-a7d5907624ce.jpg)
+![1](https://user-images.githubusercontent.com/44366051/47357047-ae5b7000-d700-11e8-938f-9f3b2c6bc9ba.jpg)
+
